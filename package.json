@@ -1,0 +1,14 @@
+{
+  "name": "lkacg_v2",
+  "version": "2.0.0",
+  "description": "Lk ACG website brand new update",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Marco Leung",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
