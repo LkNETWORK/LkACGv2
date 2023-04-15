@@ -1,2 +1,5 @@
-# LkACGv2
-This is the basic framework of my personal anime archive site. It's probably full of bullshit and spagetti code but feel free to use if if you find it useful
+# LkACG *v2*
+
+Repo of Lk ACG Site's new version, written with nodeJS (PHP for v1)
+
+I basically abandoned the project ald lol lmao
